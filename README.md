@@ -143,14 +143,29 @@ Step 11, Save the movies_query.png and ratings_query.png files in the Resources 
 
 ## Images of DataFrames and SQL Database Tables
 
-- Image of wiki_movies_df 
-    ![image_name](https://github.com/raneymjohnGit/World_Weather_Analysis/blob/main/Weather_Database/city_dataframe.png)
+- Image of Deliverble 1 wiki_movies_df dataframe
+    ![image_name](https://github.com/raneymjohnGit/Movies-ETL/blob/main/Resources/Deliverable1_wiki_movies_df.png)
 
-- Image of vacation spots based on user tempearature preferences
-    ![image_name](https://github.com/raneymjohnGit/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+- Image of Deliverble 1 kaggle_meta_data  dataframe
+    ![image_name](https://github.com/raneymjohnGit/Movies-ETL/blob/main/Resources/Deliverable1_kaggle_metadata.png)
 
-- Image of travel itinerary for the user selected four cities
-    ![image_name](https://github.com/raneymjohnGit/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+- Image of Deliverble 1 ratings  dataframe
+    ![image_name](https://github.com/raneymjohnGit/Movies-ETL/blob/main/Resources/Deliverable1_ratings.png)
  
-- Image of city, hotel and weather for the user selected four cities
-    ![image_name](https://github.com/raneymjohnGit/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+- Image of Deliverble 2 wiki_movies_df dataframe
+    ![image_name](https://github.com/raneymjohnGit/Movies-ETL/blob/main/Resources/Deliverable2_wiki_movies_df.png)
+
+- Image of Deliverble 2 wiki_movies_df columns list
+    ![image_name](https://github.com/raneymjohnGit/Movies-ETL/blob/main/Resources/Deliverable2_wiki_movies_df_columns.png)
+
+- Image of Deliverble 3 movie_with_ratings_df dataframe
+    ![image_name](https://github.com/raneymjohnGit/Movies-ETL/blob/main/Resources/Deliverable3_movies_with_ratings_df.png)
+
+- Image of Deliverble 3 movies_df dataframe
+    ![image_name](https://github.com/raneymjohnGit/Movies-ETL/blob/main/Resources/Deliverable3_movies_df.png)
+
+- Image of Deliverble 4 movies data base count
+    ![image_name](https://github.com/raneymjohnGit/Movies-ETL/blob/main/Resources/movies_query.png)
+
+- Image of Deliverble 4 ratings data base count
+    ![image_name](https://github.com/raneymjohnGit/Movies-ETL/blob/main/Resources/ratings_query.png)
